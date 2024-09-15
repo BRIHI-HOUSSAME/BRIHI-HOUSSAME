@@ -7,8 +7,8 @@ I'm a passionate **Full-Stack Web Developer** with a knack for building dynamic,
 
 [![Gmail Badge](https://img.shields.io/badge/-brihihossam@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brihihossam@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssame-brihi/)
-[![X Badge](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white)](x.com/HoussameBrihi)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](leetcode.com/u/BRIHI-HOUSSAME/)
+[![X Badge](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/HoussameBrihi)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/BRIHI-HOUSSAME/)
 
 ---
 
