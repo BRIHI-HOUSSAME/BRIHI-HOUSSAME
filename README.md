@@ -93,6 +93,6 @@ When I'm not coding, I enjoy:
 # Active Account 👋🏼
 
 This is my currently active GitHub account : https://github.com/BRIHI03 </br>
-All ongoing work and updates will be here.
+All ongoing work and updates.
 
 
