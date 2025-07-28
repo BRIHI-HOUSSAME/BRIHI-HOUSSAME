@@ -1,4 +1,4 @@
-# Hi there! I'm Houssame Brihi 👋🏼
+<!-- # Hi there! I'm Houssame Brihi 👋🏼
 
 I'm a passionate **Full-Stack Web Developer** with a knack for building dynamic, scalable web applications. I specialize in crafting modern user interfaces, writing clean code, and solving complex problems. Below is a breakdown of my tech stack, the technologies I've learned, and the languages I’m technically familiar with.
 
@@ -89,5 +89,10 @@ When I'm not coding, I enjoy:
 - Playing **football**, **swimming**, and staying fit
 - Exploring the latest trends in **tech** and **computer science**
 
----
+--- -->
+# Active Account 👋🏼
+
+This is my currently active GitHub account : https://github.com/BRIHI03 </br>
+All ongoing work and updates will be here.
+
 
